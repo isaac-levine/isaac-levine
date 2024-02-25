@@ -18,10 +18,10 @@
 -----
 <p align="center">
   <a href="https://github.com/isaac-levine">
-    <img src="https://img.shields.io/badge/github-isaac-levine-0072B1?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/GitHub0072B1?logo=linkedin&style=flat-square" />
   </a>
   <a href="https://www.linkedin.com/in/isaacmlevine4">
-    <img src="https://img.shields.io/badge/linkedin-Isaac Levine-0072B1?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-Isaac Levine-0072B1?logo=linkedin&style=flat-square" />
   </a>
   <a href="https://x.com/isaaclevine84">
     <img src="https://img.shields.io/badge/@isaaclevine84-000000?logo=x&logoColor=white&style=flat-square" />
