@@ -2,7 +2,7 @@
 
 <p>
   <h1 align="center">
-    <b>Hi, I'm Isaac Levine</a> 👋</b>
+    <b>Welcome to Isaac's GitHub</b>
   </h1>
   <p align="center">
     <samp>Backend SWE Co-op @ CarGurus | CS Student at Northeastern</samp>
