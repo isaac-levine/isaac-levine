@@ -18,7 +18,7 @@
 -----
 <p align="center">
   <a href="https://github.com/isaac-levine">
-    <img src="https://img.shields.io/badge/github-@isaac-levine-211F1F?logo=github&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/github@isaac-levine-0072B1?logo=linkedin&style=flat-square" />
   </a>
   <a href="https://www.linkedin.com/in/isaacmlevine4">
     <img src="https://img.shields.io/badge/linkedin-Isaac Levine-0072B1?logo=linkedin&style=flat-square" />
@@ -27,8 +27,8 @@
     <img src="https://img.shields.io/badge/@isaaclevine84-000000?logo=x&logoColor=white&style=flat-square" />
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/isaac-levine">
     <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-wei&label=visitors&color=grey&style=flat" />
   </a>
-</p>
+</p> -->
