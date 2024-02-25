@@ -5,7 +5,7 @@
     <b>Hi, I'm Isaac Levine</a> 👋</b>
   </h1>
   <p align="center">
-    <samp>( "Backend SWE Co-op @ CarGurus" | "CS Student at Northeastern" )</samp>
+    <samp>Backend SWE Co-op @ CarGurus | CS Student at Northeastern</samp>
   </p>
 </p>
 
