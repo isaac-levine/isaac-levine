@@ -24,11 +24,8 @@
     <img src="https://img.shields.io/badge/@isaaclevine84-000000?logo=x&logoColor=white&style=flat-square" />
   </a>
   <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=isaac-levine&label=Profile%20Views&color=1&icon=0&pretty=true" />
-</a>
-</p>
-<p align="center">
-  
+    <img src="https://visitcount.itsvg.in/api?id=isaac-levine&label=Profile%20Views&color=12&icon=0&pretty=true" />
+  </a>
 </p>
 <!-- <p align="center">
   <a href="https://github.com/isaac-levine">
