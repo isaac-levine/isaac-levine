@@ -26,6 +26,7 @@
     <img src="https://img.shields.io/badge/@isaaclevine84-000000?logo=x&logoColor=white&style=flat-square" />
   </a>
 </p>
+[![](https://visitcount.itsvg.in/api?id=isaac-levine&icon=0&color=12)](https://visitcount.itsvg.in)
 <!-- <p align="center">
   <a href="https://github.com/isaac-levine">
     <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-wei&label=visitors&color=grey&style=flat" />
