@@ -4,7 +4,7 @@
 <h3>Isaac Levine</h3>
 <p><em><u>Computer Science Student @ Northeastern University</u></em></p>
 <p><em><u>Backend Software Engineering Intern @ CarGurus</u></em></p>
-Working on <a href="www.intellibet.io">intellibet.io</a> <br/>
+Working on <a href="https://www.intellibet.io">intellibet.io</a> <br/>
 
 <br/> 📫 Contact me:
 <a href="mailto:isaacmlevine4@gmail.com" style="color:blue"><i>E-Mail</i></a>
