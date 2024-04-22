@@ -7,7 +7,7 @@
 <!-- I love using technology to improve people's lives. <br/> -->
 
 <br/> 📫 Contact me:
-<a href="http://twitter.com/isaaclevine84 style="color:blue"><i>Twitter</i></a>
+<a href="http://twitter.com/isaaclevine84" style="color:blue"><i>Twitter</i></a>
 •
 <a href="mailto:isaacmlevine4@gmail.com" style="color:blue"><i>E-Mail</i></a>
 •
