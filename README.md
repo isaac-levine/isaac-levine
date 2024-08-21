@@ -4,7 +4,7 @@
 <h3>Isaac Levine's GitHub</h3>
 <p><em><u>Computer Science Student @ Northeastern University</u></em></p>
 <!-- <p><em><u>Software Engineering Intern @ CarGurus</u></em></p>
-Working on <a href="https://www.intellibet.io">intellibet.io</a> and <a href="https://www.boilerbase.io">boilerbase.io</a><br/> --> -->
+Working on <a href="https://www.intellibet.io">intellibet.io</a> and <a href="https://www.boilerbase.io">boilerbase.io</a><br/> --> 
 
 <br/> 📫 Contact me:
 <ul>
