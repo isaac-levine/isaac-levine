@@ -6,7 +6,7 @@
 <!-- <p><em><u>Software Engineering Intern @ CarGurus</u></em></p>
 Working on <a href="https://www.intellibet.io">intellibet.io</a> and <a href="https://www.boilerbase.io">boilerbase.io</a><br/> --> 
 
-<br/>Contact me:
+<br/>✉️ Contact me:
 <ul>
   <li><a href="mailto:isaacmlevine4@gmail.com" style="color:blue">E-Mail</a></li>
   <li><a href="http://twitter.com/isaaclevine84" style="color:blue">Twitter</a></li>
