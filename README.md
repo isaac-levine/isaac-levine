@@ -9,7 +9,7 @@ Working on <a href="https://www.intellibet.io">intellibet.io</a> and <a href="ht
 <br/>✉️ Contact me:
 <ul>
   <li><a href="mailto:isaacmlevine4@gmail.com" style="color:blue">E-Mail</a></li>
-  <li><a href="http://twitter.com/isaaclevine84" style="color:blue">Twitter</a></li>
+  <li><a href="http://twitter.com/isaaclvn" style="color:blue">Twitter</a></li>
   <li><a href="https://www.linkedin.com/in/isaac-levine" style="color:blue">LinkedIn</a><br/>
 </li>
 </ul>
