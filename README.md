@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student @ Northeastern University
-- 👨‍💻 Incoming SWE @ CarGurus
+- 💼 Incoming SWE @ CarGurus
 - 🚀 Building [frontstep.ai](https://frontstep.ai) and [boilerbase.io](https://boilerbase.io)
 
 ### 🔗 Connect with me
