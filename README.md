@@ -3,9 +3,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-levine&layout=donut&theme=dark&hide_border=true&bg_color=0D1117" width="360" />
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science Student @ Northeastern University
-- 💼 Incoming SWE @ CarGurus
-- 🛠️ Building [frontstep.ai](https://frontstep.ai). Previously founded [boilerbase.io](https://boilerbase.io)
+- Computer Science Student @ Northeastern University
+- Incoming SWE @ CarGurus
+- Building [frontstep.ai](https://frontstep.ai)
+- Previously founded [boilerbase.io](https://boilerbase.io)
 
 ### 🔗 Connect with me
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:isaacmlevine4@gmail.com)
