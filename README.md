@@ -6,7 +6,7 @@
 - Computer Science Student @ Northeastern University
 - Incoming SWE @ CarGurus
 - Building [frontstep.ai](https://frontstep.ai)
-- Previously founded [boilerbase.io](https://boilerbase.io)
+- Prev. [boilerbase.io](https://boilerbase.io)
 
 ### 🔗 Connect with me
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:isaacmlevine4@gmail.com)
