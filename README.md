@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-levine&layout=donut&theme=dark&hide_border=true&bg_color=0D1117" width="360" />
 
 ### 👨‍💻 About Me
-- CS Student @ Northeastern University
+- Computer Science @ Northeastern University
 - Incoming SWE @ CarGurus
 - Building [frontstep.ai](https://frontstep.ai)
 - Prev. [boilerbase.io](https://boilerbase.io)
