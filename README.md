@@ -10,5 +10,5 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/isaaclvn)
 
 
-Building <a href="https://www.frontstep.ai">frontstep.ai<a> 🏠
+Building <a href="https://www.frontstep.ai">frontstep.ai<a> 🏠 <br/>
 Prev built <a href="https://www.boilerbase.io">boilerbase.io<a>
