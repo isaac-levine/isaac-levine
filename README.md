@@ -38,7 +38,7 @@
 
 ## Connect with me 🤝
 
-[![Twitter](https://img.shields.io/badge/Twitter-@isaaclvn-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/isaaclvn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac_Levine-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-levine)
 [![Website](https://img.shields.io/badge/Website-isaac--levine.com-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://isaac-levine.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac_Levine-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-levine)
+[![Twitter](https://img.shields.io/badge/Twitter-@isaaclvn-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/isaaclvn)
 [![Email](https://img.shields.io/badge/Email-isaacmlevine4-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:isaacmlevine4@gmail.com)
