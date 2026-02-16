@@ -1,15 +1,15 @@
-# Hi, I'm Isaac
+# Hi, I'm Isaac 👋
 
-**Boston, MA** · Building [Frontstep](https://www.frontstep.ai) · Shipping fast with TypeScript, Swift & AI
+**Boston, MA** · Building [Frontstep](https://www.frontstep.ai) 🏠 · [Agentic engineering](https://steipete.me/posts/2025/agentic-engineering-vs-vibe-coding) enthusiast
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 ## Projects
 
@@ -24,9 +24,6 @@
 - 💌 **[valentine](https://github.com/isaac-levine/valentine)** – Valentine card sender built and shipped in under 10 minutes (Next.js 15, Resend)
 - 🌍 **[country-game](https://github.com/isaac-levine/country-game)** – Country guessing game with a social feed (React, Redux, React Router)
 - 👥 **[Flow Work](https://github.com/teamrevspace/flowwork)** – Cowork with friends in real time (Swift)
-
-### Systems
-
 - 🐚 **[unix-shell](https://github.com/isaac-levine/unix-shell)** – Custom shell in C with piping, redirection, and sequencing
 - 📁 **[file-system](https://github.com/isaac-levine/file-system)** – FUSE file system driver mounting a 1MB disk image
 
