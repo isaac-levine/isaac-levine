@@ -1,6 +1,6 @@
 # Hi, I'm Isaac 👋
 
-**Boston, MA** · Building [Frontstep](https://www.frontstep.ai) 🏠 · [Agentic engineer](https://steipete.me/posts/2025/agentic-engineering-vs-vibe-coding)
+**Boston, MA** · SWE @ [CarGurus](https://www.cargurus.com) · Building [Frontstep](https://www.frontstep.ai) 🏠 · [Agentic engineer](https://steipete.me/posts/2025/agentic-engineering-vs-vibe-coding)
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -15,7 +15,7 @@
 
 ## Projects
 
-- 🏠 **[Frontstep](https://www.frontstep.ai)** – AI lead-qualification platform used by 15+ brokerages to automate rental prospect intake via Zillow and SMS (Next.js, LangChain, Twilio, MongoDB). Won 3rd place at Northeastern's startup challenge; received acquisition offer within 4 months of launch.
+- 🏠 **[Frontstep](https://www.frontstep.ai)** (closed source) – Solo-engineered AI platform that autonomously qualifies apartment leads from inquiry to tour, featuring the first direct integration into Zillow's native chat. 5,000+ automated messages across 400+ nationwide tenant conversations under FHA-compliant guardrails, saving brokers 7–8 hrs/week. Won 3rd at Northeastern's startup challenge; received acquisition offer within 4 months of launch. (Next.js, LangChain, Twilio, AWS, MongoDB)
 - 🚀 **[Boilerbase](https://github.com/isaac-levine/boilerbase)** – Open-source SaaS boilerplate platform used by 300+ developers across 21+ countries. Intelligent code generation with payments, auth, and email baked in (Next.js, Stripe, NextAuth, MongoDB).
 - 🔬 **[PromptLens](https://github.com/promptlens/promptlens-ts)** – TypeScript SDK for A/B testing and monitoring AI system prompts
 - 🔍 **[nextjs-analyzer](https://github.com/isaac-levine/nextjs-analyzer)** – Rust-powered static analyzer that catches client hooks in Next.js server components
