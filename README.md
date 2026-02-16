@@ -35,7 +35,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isaac-levine&theme=dark&hide_border=true&background=0D1117)
 
-## Connect
+## Connect with me 🤝
 
 [![Twitter](https://img.shields.io/badge/-@isaaclvn-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/isaaclvn)
 [![LinkedIn](https://img.shields.io/badge/-Isaac_Levine-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-levine)
