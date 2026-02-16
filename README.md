@@ -1,6 +1,6 @@
 # Hi, I'm Isaac 👋
 
-**Boston, MA** · Building [Frontstep](https://www.frontstep.ai) 🏠 · [Agentic engineering](https://steipete.me/posts/2025/agentic-engineering-vs-vibe-coding) enthusiast
+**Boston, MA** · Building [Frontstep](https://www.frontstep.ai) 🏠 · [Agentic engineer](https://steipete.me/posts/2025/agentic-engineering-vs-vibe-coding)
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
