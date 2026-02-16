@@ -33,7 +33,7 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/isaac-levine)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-levine&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" width="400" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isaac-levine&theme=dark&hide_border=true&background=0D1117)
 
 ## Connect
 
