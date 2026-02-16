@@ -15,8 +15,8 @@
 
 ## Projects
 
-- 🏠 **[Frontstep](https://www.frontstep.ai)** – AI-powered B2B SaaS for home services
-- 🚀 **[Boilerbase](https://github.com/isaac-levine/boilerbase)** – The fastest way to ship your SaaS web app MVP
+- 🏠 **[Frontstep](https://www.frontstep.ai)** – AI lead-qualification platform used by 15+ brokerages to automate rental prospect intake via Zillow and SMS (Next.js, LangChain, Twilio, MongoDB). Won 3rd place at Northeastern's startup challenge; received acquisition offer within 4 months of launch.
+- 🚀 **[Boilerbase](https://github.com/isaac-levine/boilerbase)** – Open-source SaaS boilerplate platform used by 300+ developers across 21+ countries. Intelligent code generation with payments, auth, and email baked in (Next.js, Stripe, NextAuth, MongoDB).
 - 🔬 **[PromptLens](https://github.com/promptlens/promptlens-ts)** – TypeScript SDK for A/B testing and monitoring AI system prompts
 - 🔍 **[nextjs-analyzer](https://github.com/isaac-levine/nextjs-analyzer)** – Rust-powered static analyzer that catches client hooks in Next.js server components
 - 🏀 **[IntelliBet](https://github.com/isaac-levine/intellibet)** – Real-time AI sentiment tracking across sports betting markets (Next.js, tRPC, IBM Watson)
