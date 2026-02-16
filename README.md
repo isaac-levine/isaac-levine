@@ -33,7 +33,7 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/isaac-levine)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isaac-levine&theme=dark&hide_border=true&background=0D1117)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=isaac-levine&theme=dark&hide_border=true&background=0D1117" width="400" />
 
 ## Connect with me 🤝
 
