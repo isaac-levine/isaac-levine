@@ -1,6 +1,6 @@
 # Hi, I'm Isaac 👋
 
-**Boston, MA** · SWE @ [CarGurus](https://www.cargurus.com) · Building [Dealwire](https://dealwire.ai) 🏗️
+**Boston, MA** · SWE @ [CarGurus](https://www.cargurus.com) · Building [dealwire.ai](https://dealwire.ai) 🏗️
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -15,9 +15,9 @@
 
 ## Projects
 
-- 🏗️ **[Dealwire](https://github.com/isaac-levine/dealwire)** (closed source) – Agentic deal flow platform for commercial real estate investors — autonomous screening, underwriting, and public data intelligence, all driven through your inbox. (Next.js, NestJS, OpenAI, Microsoft Graph, Prisma, PostgreSQL)
-- 🏠 **[Frontstep](https://www.frontstep.ai)** (closed source) – Solo-engineered AI platform that autonomously qualifies apartment leads from inquiry to tour, featuring the first direct integration into Zillow's native chat. 5,000+ automated messages across 400+ nationwide tenant conversations under FHA-compliant guardrails, saving brokers 7–8 hrs/week. Won 3rd at Northeastern's startup challenge; received acquisition offer within 4 months of launch. (Next.js, LangChain, Twilio, AWS, MongoDB)
-- 🚀 **[Boilerbase](https://github.com/isaac-levine/boilerbase)** – Open-source SaaS boilerplate platform used by 300+ developers across 21+ countries. Intelligent code generation with payments, auth, and email baked in (Next.js, Stripe, NextAuth, MongoDB).
+- 🏗️ **[dealwire.ai](https://dealwire.ai)** (closed source) – Agentic deal flow platform for commercial real estate investors — autonomous screening, underwriting, and public data intelligence, all driven through your inbox. (Next.js, NestJS, OpenAI, Microsoft Graph, Prisma, PostgreSQL)
+- 🏠 **[frontstep.ai](https://www.frontstep.ai)** (closed source) – Solo-engineered AI platform that autonomously qualifies apartment leads from inquiry to tour, featuring the first direct integration into Zillow's native chat. 5,000+ automated messages across 400+ nationwide tenant conversations under FHA-compliant guardrails, saving brokers 7–8 hrs/week. Won 3rd at Northeastern's startup challenge; received acquisition offer within 4 months of launch. (Next.js, LangChain, Twilio, AWS, MongoDB)
+- 🚀 **[boilerbase.io](https://boilerbase.io)** – Open-source SaaS boilerplate platform used by 300+ developers across 21+ countries. Intelligent code generation with payments, auth, and email baked in (Next.js, Stripe, NextAuth, MongoDB).
 - 🌿 **[Forage](https://github.com/isaac-levine/forage)** – Self-improving tool discovery for AI agents. MCP server that lets agents find, securely install, and use new tools without human intervention or restarts (TypeScript, MCP SDK)
 - 🔬 **[PromptLens](https://github.com/promptlens/promptlens-ts)** – TypeScript SDK for A/B testing and monitoring AI system prompts
 - 🔍 **[nextjs-analyzer](https://github.com/isaac-levine/nextjs-analyzer)** – Rust-powered static analyzer that catches client hooks in Next.js server components
