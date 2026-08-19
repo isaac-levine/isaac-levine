@@ -1,6 +1,6 @@
 # Hi, I'm Isaac 👋
 
-**Boston, MA** · SWE @ [CarGurus](https://www.cargurus.com) · Building [dealwire.ai](https://dealwire.ai) 🏗️
+**Boston, MA** · SWE @ [CarGurus](https://www.cargurus.com) · Building [dealwire.ai](https://dealwire.ai) 🏗️ · Prev. Founded [frontstep.ai](https://frontstep.ai) 🏠
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
